@@ -5,3 +5,7 @@ p{
   font-style: italic;
   text-decoration: underline;
 }
+
+body {
+  margin: 0;
+}
